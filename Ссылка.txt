@@ -1,2 +1,11 @@
-Network URL http://192.168.14.56:8501
-Открывается только через вайфай SU-guest
+https://legal-document-analysis--stagovnikita30.replit.app
+
+Авторизация:
+
+В поле «Имя и номер ТЗ» введите любое имя.
+
+В поле «API Ключ доступа (GROQ)» введите ваш персональный ключ от Groq (формата gsk_...).
+
+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 основной
+
+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 запасной
